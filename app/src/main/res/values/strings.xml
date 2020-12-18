@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TFS Safe Demo</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom">Nom</string>
+    <string name="telephone">Telephone</string>
+    <string name="courriel">Courriel</string>
+    <string name="eleve">Éleve</string>
+    <string name="staff">Staff</string>
+    <string name="visiteur">Visiteur</string>
+    <string name="continuer">Continuer</string>
+</resources>
